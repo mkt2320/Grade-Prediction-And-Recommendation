@@ -2,7 +2,7 @@ Student Grade Prediction and Recommendation System
 
 Overview
 This research project addresses the challenge of student dropout rates in higher education by developing a system for predicting grades and offering recommendations. Leveraging a comprehensive dataset, the study aims to construct a robust machine learning model capable of accurately predicting grades and identifying influential factors.
-=================================================================================================
+================================================================================================================================================
 Key Features
 Predictive Modeling: Utilizes machine learning techniques, including Lasso Regression and Bagging Classifier, to predict student grades with high accuracy.
 Personalized Recommendations: Generates personalized recommendations to empower students to improve their academic performance based on predicted grades and additional socio-economic background features.
